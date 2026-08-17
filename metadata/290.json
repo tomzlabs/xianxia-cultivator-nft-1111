@@ -1,0 +1,24 @@
+{
+  "name": "Xianxia Cultivator #0290",
+  "description": "A square xianxia cultivation NFT profile portrait from the Xianxia Cultivator collection.",
+  "image": "https://raw.githubusercontent.com/tomzlabs/xianxia-cultivator-nft-1111/main/images/xianxia-0290.webp",
+  "external_url": "https://github.com/tomzlabs/xianxia-cultivator-nft-1111",
+  "attributes": [
+    {
+      "trait_type": "Faction",
+      "value": "Thunder Pavilion"
+    },
+    {
+      "trait_type": "Cultivation Path",
+      "value": "Talisman Dao"
+    },
+    {
+      "trait_type": "Palette",
+      "value": "Vermilion"
+    },
+    {
+      "trait_type": "Edition",
+      "value": 290
+    }
+  ]
+}
